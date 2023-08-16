@@ -1,3 +1,3 @@
 # **AimTrainer**
 
-Aplicacion basica para entrenar el aim
+Basic application for aim training
